@@ -36,5 +36,5 @@ projects/windows/
 
 *.bak
 *.backup
-.env
 g4f.dev/
+config.bat
